@@ -5,3 +5,5 @@
 *.webm
 *.mp4
 *.mkv
+
+config.json
